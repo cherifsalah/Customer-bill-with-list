@@ -1,0 +1,29 @@
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\bin\Debug\Customer_bill.exe.config
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\bin\Debug\Customer_bill.exe
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\bin\Debug\Customer_bill.pdb
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\obj\Debug\Customer_bill.csprojAssemblyReference.cache
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\obj\Debug\Customer_bill.frm_customerbill.resources
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\obj\Debug\Customer_bill.Properties.Resources.resources
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\obj\Debug\Customer_bill.csproj.GenerateResource.cache
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\obj\Debug\Customer_bill.csproj.CoreCompileInputs.cache
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\obj\Debug\Customer_bill.exe
+C:\Users\819469\source\repos\Customer_bill\Customer_bill\obj\Debug\Customer_bill.pdb
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.frm_customerbill.resources
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.Properties.Resources.resources
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.csproj.GenerateResource.cache
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.csproj.CoreCompileInputs.cache
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.exe
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.pdb
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\bin\Debug\Customer_bill.exe.config
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\bin\Debug\Customer_bill.exe
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\bin\Debug\Customer_bill.pdb
+C:\Users\819469\source\repos\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.csprojAssemblyReference.cache
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\bin\Debug\Customer_bill.exe.config
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\bin\Debug\Customer_bill.exe
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\bin\Debug\Customer_bill.pdb
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.csprojAssemblyReference.cache
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.frm_customerbill.resources
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.Properties.Resources.resources
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.csproj.GenerateResource.cache
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.exe
+F:\sait volume\cprg 200 partieB rad programing_jolanta\mylabs\Customer_bill - lab2\Customer_bill\obj\Debug\Customer_bill.pdb

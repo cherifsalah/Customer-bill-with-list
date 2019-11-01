@@ -1,0 +1,17 @@
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\obj\Debug\UnitTestCustomerClasses.csprojAssemblyReference.cache
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\obj\Debug\UnitTestCustomerClasses.csproj.CoreCompileInputs.cache
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\UnitTestCustomerClasses.dll
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\UnitTestCustomerClasses.pdb
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Customer_bill.exe
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Customer_bill.pdb
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Customer_bill.exe.config
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\obj\Debug\UnitTestCustomerClasses.csproj.CopyComplete
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\obj\Debug\UnitTestCustomerClasses.dll
+C:\Users\819469\source\repos\Customer_bill - lab2\UnitTestCustomerClasses\obj\Debug\UnitTestCustomerClasses.pdb
